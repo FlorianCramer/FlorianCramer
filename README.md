@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:064e3b&height=220&section=header&text=Florian%20Cramer&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Open-source%20Maintainer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:064e3b&height=220&section=header&text=Florian%20Cramer&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=60"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=700&lines=Building+useful+things+and+learning+in+public.;TypeScript+%7C+JavaScript+%7C+Web+Development;OpenWarnDE+%F0%9F%9A%92;Maps+%7C+APIs+%7C+Backend+%7C+Open+Data;Turning+ideas+into+working+software." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=700&lines=Building+useful+things+and+learning+in+public" alt="Typing SVG"/>
 
 <br><br>
 
@@ -49,7 +49,7 @@ I enjoy working where **software, real-world problems and interesting technology
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FlorianCramer&bg_color=00000000&color=22c55e&line=22c55e&point=ffffff&area=true&hide_border=true&custom_title=Live%20Contribution%20Activity" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FlorianCramer&bg_color=00000000&color=22c55e&line=22c55e&point=ffffff&area=true&hide_border=true&custom_title=Live%20Contribution%20Graph" alt="Activity Graph"/>
 
 </div>
 
@@ -101,32 +101,38 @@ The idea is bigger than simply creating an app:
               │   APP    │      │ API USERS │
               └──────────┘      └───────────┘
 ```
-🎯 The goal
+
+### 🎯 The goal
 
 Build an open platform that can collect, process, evaluate and publish public warning information through a centralized architecture.
 
-🗺️ Geospatial & location-based information
-🚨 Public warning data
-🔌 Versioned APIs
-🧩 Modular backend architecture
-📱 Web & mobile applications
-🔥 Fire departments & civil protection
-🌐 Open/public data sources
-🛠️ My Stack
+- 🗺️ Geospatial & location-based information
+- 🚨 Public warning data
+- 🔌 Versioned APIs
+- 🧩 Modular backend architecture
+- 📱 Web & mobile applications
+- 🔥 Fire departments & civil protection
+- 🌐 Open/public data sources
 
-<div align="center"> <img src="https://skillicons.dev/icons?i=ts,js,html,css,java,swift,nodejs,firebase,git,github" />
+### 🛠️ My Stack
 
+<div align="center">
 
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,java,swift,nodejs,firebase,git,github"/>
 
-TypeScript JavaScript HTML CSS Java Swift
+**TypeScript** | **JavaScript** | **HTML** | **CSS** | **Java** | **Swift**
 
-Node.js Firebase MapLibre Capacitor REST APIs
+**Node.js** | **Firebase** | **MapLibre** | **Capacitor** | **REST APIs**
 
-</div> 🖥️ Developer Mode floriancramer@github:~$ whoami
+</div>
+
+### 🖥️ Developer Mode
+
+```bash
+floriancramer@github:~$ whoami
 Florian Cramer
 
 floriancramer@github:~$ cat ./focus.txt
-
 Web Development
 Backend Architecture
 APIs
@@ -135,58 +141,77 @@ Open Source
 Emergency Services
 
 floriancramer@github:~$ ./current-project
-
 🚒 OpenWarnDE 2.0
 
 floriancramer@github:~$ status
-
 [██████████████████░░] building
 
 floriancramer@github:~$ uptime
-
 still learning
 still building
 still shipping
-📡 Currently Building
+```
 
-<div align="center"> <table> <tr> <td align="center" width="25%"> 🏗️
-Architecture
+### 📡 Currently Building
 
-OpenWarnDE 2.0
+<div align="center">
 
-</td> <td align="center" width="25%"> 🔌
-API
+| | |
+|---|---|
+| 🏗️ **Architecture** | OpenWarnDE 2.0 |
+| 🔌 **API** | Versioned API |
+| 🗺️ **Geospatial** | Maps & warning data |
+| 🚒 **Impact** | Emergency services |
 
-Versioned API
+</div>
 
-</td> <td align="center" width="25%"> 🗺️
-Geospatial
+---
 
-Maps & warning data
+# 📊 GitHub Analytics
 
-</td> <td align="center" width="25%"> 🚒
-Impact
+<div align="center">
 
-Emergency services
+<img src="https://github-readme-stats.vercel.app/api?username=FlorianCramer&show_icons=true&hide_border=true&bg_color=000000&icon_color=22c55e&text_color=ffffff&title_color=22c55e&count_private=true"/>
 
-</td> </tr> </table> </div> 📊 GitHub Analytics <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FlorianCramer&show_icons=true&hide_border=true&bg_color=00000000&title_color=22c55e&icon_color=22c55e&text_color=94a3b8" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlorianCramer&layout=compact&hide_border=true&bg_color=00000000&title_color=22c55e&text_color=94a3b8" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FlorianCramer&hide_border=true&background=00000000&ring=22c55e&fire=22c55e&currStreakLabel=22c55e"/>
 
+</div>
 
+---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FlorianCramer&hide_border=true&background=00000000&ring=22c55e&fire=22c55e&currStreakLabel=22c55e"/> </div>
-🐍 Contribution Trail
+# 🐍 Contribution Trail
 
-<div align="center"> <img src="https://raw.githubusercontent.com/FlorianCramer/FlorianCramer/output/github-contribution-grid-snake-dark.svg" width="100%"/> </div> 🤝 Open to Collaboration <div align="center">
-Open Source · Web Development · APIs · Maps · Emergency Services
+<div align="center">
 
+<img src="https://raw.githubusercontent.com/FlorianCramer/FlorianCramer/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+# 🤝 Open to Collaboration
+
+<div align="center">
+
+**Open Source** · **Web Development** · **APIs** · **Maps** · **Emergency Services**
 
 If you have an interesting idea, want to contribute to OpenWarnDE,
 or simply want to talk tech — let's build something useful.
 
+<img src="https://img.shields.io/badge/BUILD-22c55e?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LEARN-16a34a?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SHIP-0ea5e9?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/BUILD-22c55e?style=for-the-badge"/> <img src="https://img.shields.io/badge/LEARN-16a34a?style=for-the-badge"/> <img src="https://img.shields.io/badge/SHIP-064e3b?style=for-the-badge"/> </div>
+</div>
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,50:111827,100:0f172a&height=140&section=footer" width="100%"/> mit KI erstellt 🤖
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,50:111827,100:0f172a&height=140&section=footer" width="100%"/>
+
+mit KI erstellt 🤖
+
 <sub>Florian Cramer · building useful things and learning in public.</sub>
 
-</div> 
+</div>
