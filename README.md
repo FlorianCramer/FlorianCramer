@@ -167,30 +167,35 @@ still shipping
 
 <div align="center">
 
-[![Florian's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlorianCramer&show_icons=true&hide_border=true&bg_color=000000&icon_color=22c55e&text_color=ffffff&title_color=22c55e&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=FlorianCramer&show_icons=true&hide_border=true&bg_color=000000&icon_color=22c55e&text_color=ffffff&title_color=22c55e&count_private=true" alt="GitHub Stats" width="100%" style="max-width: 500px;"/>
 
-[![Florian's Contribution Streak](https://streak-stats.demolab.com?user=FlorianCramer&theme=dark&hide_border=true&background=00000000&ring=22c55e&fire=22c55e&currStreakLabel=22c55e)](https://git.io/streak-stats)
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=FlorianCramer&theme=dark&hide_border=true&background=00000000&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" alt="Contribution Streak" width="100%" style="max-width: 500px;"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Graph
+# 🐍 Contribution Activity
 
 <details>
-<summary>📈 <b>View Activity Graph</b></summary>
+<summary>📈 <b>View Activity Graph & Snake Animation</b></summary>
 
-> **ℹ️ Note:** The activity graph requires GitHub Actions workflow setup. 
-> 
-> To display it, you need:
-> 1. A workflow file that generates the SVG daily
-> 2. The generated SVG stored in an `output` branch
+> **ℹ️ Setup Instructions:**
 >
-> Set up the [Platane/snk](https://github.com/Platane/snk) action for automatic snake animation generation.
-
-```markdown
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FlorianCramer&theme=github-dark&hide_border=true&hide_title=false)
-```
+> To enable the contribution graph and snake animation, add a GitHub Actions workflow:
+>
+> 1. Create `.github/workflows/snake.yml`
+> 2. Use the [Platane/snk](https://github.com/Platane/snk) action
+> 3. Generate and commit SVG to `output` branch
+>
+> Then uncomment the images below in your README:
+>
+> ```markdown
+> ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FlorianCramer&theme=github-dark&hide_border=true)
+> ![Snake animation](https://raw.githubusercontent.com/FlorianCramer/FlorianCramer/output/github-contribution-grid-snake-dark.svg)
+> ```
 
 </details>
 
