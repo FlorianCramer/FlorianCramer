@@ -47,10 +47,6 @@ I enjoy working where **software, real-world problems and interesting technology
 <img src="https://img.shields.io/github/repo-size/FlorianCramer/OpenWarnDE?style=flat-square&logo=github&label=OpenWarnDE%20SIZE" alt="OpenWarnDE repo size"/>
 <img src="https://img.shields.io/github/repo-size/FlorianCramer/OpenWarnDEV?style=flat-square&logo=github&label=OpenWarnDEV%20SIZE" alt="OpenWarnDEV repo size"/>
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FlorianCramer&bg_color=00000000&color=22c55e&line=22c55e&point=ffffff&area=true&hide_border=true&custom_title=Live%20Contribution%20Graph" alt="Contribution Graph" width="100%"/>
-
 </div>
 
 > **Live data:** Die Werte oben werden dynamisch von GitHub bzw. den jeweiligen Renderern geladen und aktualisieren sich automatisch.
@@ -171,21 +167,32 @@ still shipping
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=FlorianCramer&show_icons=true&hide_border=true&bg_color=000000&icon_color=22c55e&text_color=ffffff&title_color=22c55e&count_private=true" alt="GitHub Statistics"/>
+[![Florian's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlorianCramer&show_icons=true&hide_border=true&bg_color=000000&icon_color=22c55e&text_color=ffffff&title_color=22c55e&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FlorianCramer&hide_border=true&background=00000000&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" alt="Contribution Streak Stats"/>
+[![Florian's Contribution Streak](https://streak-stats.demolab.com?user=FlorianCramer&theme=dark&hide_border=true&background=00000000&ring=22c55e&fire=22c55e&currStreakLabel=22c55e)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-# 🐍 Contribution Trail
+# 🐍 Contribution Graph
 
-<div align="center">
+<details>
+<summary>📈 <b>View Activity Graph</b></summary>
 
-<img src="https://raw.githubusercontent.com/FlorianCramer/FlorianCramer/output/github-contribution-grid-snake-dark.svg" alt="Snake contribution graph" width="100%"/>
+> **ℹ️ Note:** The activity graph requires GitHub Actions workflow setup. 
+> 
+> To display it, you need:
+> 1. A workflow file that generates the SVG daily
+> 2. The generated SVG stored in an `output` branch
+>
+> Set up the [Platane/snk](https://github.com/Platane/snk) action for automatic snake animation generation.
 
-</div>
+```markdown
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FlorianCramer&theme=github-dark&hide_border=true&hide_title=false)
+```
+
+</details>
 
 ---
 
